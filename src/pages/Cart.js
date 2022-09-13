@@ -1,7 +1,7 @@
 import Caart from '../components/Cart'
 const Cart = () => {
     return(
-        <div>
+        <div>a
             <Caart/>
         </div>
     )

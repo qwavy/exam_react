@@ -1,0 +1,62 @@
+@font-face {
+    font-family: 'muli' , cursive;
+    src: url("https://use.typekit.net/ugc4die.css")
+}
+
+.navbar{
+    display: flex;
+    /* width: 100%; */
+    /* justify-content: space-between; */
+    justify-content: space-around;
+}
+.links{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.link{
+    text-decoration: none;
+    font-family: 'muli' , cursive;
+    margin-right: 35px;
+}
+.link:visited{
+    color:black
+}
+.link:active{
+    color:black
+}
+.link:hover{
+    border-bottom: 1px solid;
+}
+.logo{
+    width:64px;
+    height:64px;
+}
+.content{
+    display: flex;
+    justify-content: space-around;
+}
+.sale_h{
+    font-family: 'muli' , cursive;
+    display:flex;
+    justify-content: center;
+}
+.sale{
+    font-family: 'muli' , cursive;
+    display: flex;
+    justify-content: space-around;
+    /* margin-top: 100px; */
+}
+.sale_p{
+    margin-right: 330px;
+    margin-top: 240px;
+}
+.sale_png{
+    margin-top: 20px;
+
+    height: 400px;
+}
+.sale_male_png{
+    height: 400px;
+
+}

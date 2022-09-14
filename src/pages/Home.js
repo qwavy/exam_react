@@ -27,6 +27,7 @@ const Home = () => {
                     </div>
 
                 </div>
+
                 <h1 className='sale_h'>sale</h1>
                 <div className='content'>
                     {/* <div className='sale'> */}
@@ -57,5 +58,6 @@ const Home = () => {
             </div>
         </div>
     )
+    
 }
 export default Home
